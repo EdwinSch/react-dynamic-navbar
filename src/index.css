@@ -280,7 +280,7 @@ nav {
   transform: rotate(90deg);
 }
 .logo {
-  height: 40px;
+  height: auto;
 }
 
 .links a {
